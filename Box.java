@@ -52,6 +52,9 @@ public class Box {
 		return y;
 	}
 
+	/**
+	 * @return width of the box
+	 * /
 	public int getWidth() {
 		return w;
 	}
