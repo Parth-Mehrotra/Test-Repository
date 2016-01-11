@@ -1,3 +1,8 @@
+/**
+ * Representation of a 2 Dimensional box.
+ * 
+*/
+
 public class Box {
 
 	private int x;
