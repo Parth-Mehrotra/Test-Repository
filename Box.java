@@ -34,10 +34,16 @@ public class Box {
 		this.h = h;
 	}
 
+	/**
+	* Return's the x position
+	*/
 	public int getX() {
 		return x;
 	}
 	
+	/**
+	* Returns the y position
+	*/
 	public int getY() {
 		return y;
 	}
