@@ -27,4 +27,7 @@ public class Box {
 		return w*h;
 	}
 	
+	public int getPerimeter() {
+		return 2*w + w*h;
+	}
 }
