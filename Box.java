@@ -67,4 +67,10 @@ public class Box {
 	public int getPerimeter() {
 		return 2*w + w*h;
 	}
+
+	/**
+	* Set's all the values to 0
+	*/
+	public void reset() {
+	}
 }
