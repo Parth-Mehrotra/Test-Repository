@@ -9,6 +9,9 @@ public class Box {
 	private int w;
 	private int h;
 
+	/**
+	* Constructs a Box object with a width, height, and position of 0
+	*/
 	public Box() {
 		x = 0;
 		y = 0;
