@@ -26,6 +26,14 @@ public class Box {
 		this.h = h;
 	}
 
+	public int getX() {
+		return x;
+	}
+	
+	public int getY() {
+		return y;
+	}
+
 	public int getWidth() {
 		return w;
 	}
