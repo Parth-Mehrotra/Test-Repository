@@ -59,6 +59,11 @@ public class Box {
 		return w;
 	}
 
+	/**
+	* Get the height of the box
+	*
+	* @return height of box
+	*/
 	public int getHeight() {
 		return h;
 	}
