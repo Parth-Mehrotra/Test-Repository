@@ -19,6 +19,14 @@ public class Box {
 		h = 0;
 	}
 
+	/**
+	* Constructs a box with the given attributes:
+	* 
+	* @param x position along the x axis
+	* @param y position along the y axis
+	* @param w width
+	* @param h height
+	*/
 	public Box(int x, int y, int w, int h) {
 		this.x = x;
 		this.y = y;
