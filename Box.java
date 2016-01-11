@@ -72,5 +72,9 @@ public class Box {
 	* Set's all the values to 0
 	*/
 	public void reset() {
+		x = 0;
+		y = 0; 
+		w = 0;
+		h = 0;
 	}
 }
