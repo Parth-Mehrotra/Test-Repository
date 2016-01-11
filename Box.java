@@ -26,4 +26,5 @@ public class Box {
 	public int getArea() {
 		return w*h;
 	}
+	
 }
