@@ -4,6 +4,10 @@
 
 public class Box {
 
+	/**
+	* This is a peculiar place for a javadoc comment
+	*/
+
 	private int x;
 	private int y;
 	private int w;
