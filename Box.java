@@ -69,9 +69,13 @@ public class Box {
 	}
 
 	public int getArea() {
+		//I'm a hipster and I don't document the way the rest of the team expects me to
 		return w*h;
 	}
 	
+	/** 
+	 * This java doc comment is detached 
+	 * /
 	public int getPerimeter() {
 		return 2*w + w*h;
 	}
