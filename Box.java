@@ -40,6 +40,7 @@ public class Box {
 
 	/**
 	* Return's the x position
+	* Person 2 comment
 	*/
 	public int getX() {
 		return x;
