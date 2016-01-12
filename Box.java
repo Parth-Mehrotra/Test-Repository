@@ -75,7 +75,7 @@ public class Box {
 	
 	/** 
 	 * This java doc comment is detached 
-	 * /
+	 */
 	public int getPerimeter() {
 		return 2*w + w*h;
 	}
